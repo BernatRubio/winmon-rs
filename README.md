@@ -131,3 +131,8 @@ Sampling intervals are fixed at one second in the source.
   stopping the process requires Task Manager or a similar tool.
 - No installer, no code signing, and no packaged release artifacts.
 - Metrics are limited to CPU and RAM.
+
+## Licence
+
+Released under the GNU General Public License, version 3. See the `LICENSE`
+file in the repository root for the full text.
